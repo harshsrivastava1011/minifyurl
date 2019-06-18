@@ -1,0 +1,203 @@
+2018-04-26 13:16:22 Error: [Cake\Controller\Exception\AuthSecurityException] The request has been black-holed
+Request URL: /links/shorten
+Referer URL: https://dotlink.me/member/dashboard
+2018-04-26 13:17:27 Error: [Cake\Controller\Exception\AuthSecurityException] The request has been black-holed
+Request URL: /links/shorten
+Referer URL: https://dotlink.me/member/dashboard
+2018-04-26 23:49:33 Error: [Exception] The provider 'Google' is not enabled.
+Request URL: /auth/signin?provider=Google
+2019-05-28 19:34:46 Warning: Warning (2): count(): Parameter must be an array or an object that implements Countable in [/home/watcyyzz/public_html/config/Migrations/20170204105058_version360.php, line 395]
+
+
+2019-05-31 04:29:23 Error: [Cake\Controller\Exception\AuthSecurityException] The request has been black-holed
+Request URL: /auth/signup
+Referer URL: https://minifyurl.com/auth/signup
+2019-06-10 11:56:16 Error: [Cake\Datasource\Exception\RecordNotFoundException] Record not found in table "invoices"
+Request URL: /payment/ipn?payment_method=paypal
+2019-06-10 11:57:36 Error: [Cake\Datasource\Exception\RecordNotFoundException] Record not found in table "invoices"
+Request URL: /payment/ipn?payment_method=paypal
+2019-06-10 12:00:26 Error: [Cake\Datasource\Exception\RecordNotFoundException] Record not found in table "invoices"
+Request URL: /payment/ipn?payment_method=paypal
+2019-06-10 12:05:28 Error: [Cake\Datasource\Exception\RecordNotFoundException] Record not found in table "invoices"
+Request URL: /payment/ipn?payment_method=paypal
+2019-06-10 12:12:44 Error: [Cake\Datasource\Exception\RecordNotFoundException] Record not found in table "invoices"
+Request URL: /payment/ipn?payment_method=paypal
+2019-06-10 12:20:25 Error: [Cake\Datasource\Exception\RecordNotFoundException] Record not found in table "invoices"
+Request URL: /payment/ipn?payment_method=paypal
+2019-06-10 12:28:34 Error: [Cake\Datasource\Exception\RecordNotFoundException] Record not found in table "invoices"
+Request URL: /payment/ipn?payment_method=paypal
+2019-06-10 12:48:48 Error: [Cake\Datasource\Exception\RecordNotFoundException] Record not found in table "invoices"
+Request URL: /payment/ipn?payment_method=paypal
+2019-06-10 13:14:20 Error: [Cake\Datasource\Exception\RecordNotFoundException] Record not found in table "invoices"
+Request URL: /payment/ipn?payment_method=paypal
+2019-06-10 14:06:26 Error: [Cake\Datasource\Exception\RecordNotFoundException] Record not found in table "invoices"
+Request URL: /payment/ipn?payment_method=paypal
+2019-06-10 15:34:46 Error: [Cake\Datasource\Exception\RecordNotFoundException] Record not found in table "invoices"
+Request URL: /payment/ipn?payment_method=paypal
+2019-06-10 18:30:10 Error: [Cake\Datasource\Exception\RecordNotFoundException] Record not found in table "invoices"
+Request URL: /payment/ipn?payment_method=paypal
+2019-06-10 19:27:30 Error: [Error] Call to a member function scheme() on null
+Request URL: /.git//index
+2019-06-11 00:11:35 Error: [Cake\Datasource\Exception\RecordNotFoundException] Record not found in table "invoices"
+Request URL: /payment/ipn?payment_method=paypal
+2019-06-11 11:47:00 Error: [Cake\Datasource\Exception\RecordNotFoundException] Record not found in table "invoices"
+Request URL: /payment/ipn?payment_method=paypal
+2019-06-12 10:36:07 Error: [Cake\Datasource\Exception\RecordNotFoundException] Record not found in table "invoices"
+Request URL: /payment/ipn?payment_method=paypal
+2019-06-12 14:46:06 Error: [Cake\Controller\Exception\AuthSecurityException] The request has been black-holed
+Request URL: /forms/contact
+Referer URL: https://minifyurl.com/
+2019-06-12 18:40:17 Error: [Error] Call to a member function scheme() on null
+Request URL: option=com_user&task=register?option=com_user&task=register
+2019-06-13 10:41:04 Error: [Cake\Datasource\Exception\RecordNotFoundException] Record not found in table "invoices"
+Request URL: /payment/ipn?payment_method=paypal
+2019-06-14 10:41:10 Error: [Cake\Datasource\Exception\RecordNotFoundException] Record not found in table "invoices"
+Request URL: /payment/ipn?payment_method=paypal
+2019-06-15 07:08:39 Error: [Cake\Network\Exception\SocketException] Could not send email: unserialize(): Error at offset 0 of 1 bytes
+Request URL: /auth/signup
+Referer URL: https://minifyurl.com/auth/signup
+2019-06-16 10:05:58 Error: [Cake\Controller\Exception\AuthSecurityException] Unexpected field 'submit' in POST data
+Request URL: /auth/signup
+Referer URL: https://minifyurl.com/auth/signup
+2019-06-17 05:07:58 Error: [Cake\Network\Exception\SocketException] Could not send email: unserialize(): Error at offset 0 of 1 bytes
+Request URL: /auth/signup
+Referer URL: https://minifyurl.com/auth/signup
+2019-06-17 06:05:37 Error: Fatal Error (256): [Cake\Core\Exception\MissingPluginException] Plugin ModernTheme could not be found.
+#0 /home/watcyyzz/public_html/vendor/cakephp/cakephp/src/Core/App.php(190): Cake\Core\Plugin::classPath('ModernTheme')
+#1 /home/watcyyzz/public_html/vendor/cakephp/cakephp/src/View/View.php(1469): Cake\Core\App::path('Template', 'ModernTheme')
+#2 /home/watcyyzz/public_html/vendor/cakephp/cakephp/src/View/View.php(1283): Cake\View\View->_paths(NULL)
+#3 /home/watcyyzz/public_html/vendor/cakephp/cakephp/src/View/View.php(768): Cake\View\View->_getViewFileName('Error/error500')
+#4 /home/watcyyzz/public_html/vendor/cakephp/cakephp/src/Error/ExceptionRenderer.php(364): Cake\View\View->render('error500', 'error')
+#5 /home/watcyyzz/public_html/vendor/cakephp/cakephp/src/Error/ExceptionRenderer.php(341): Cake\Error\ExceptionRenderer->_outputMessageSafe('error500')
+#6 /home/watcyyzz/public_html/vendor/cakephp/cakephp/src/Error/ExceptionRenderer.php(200): Cake\Error\ExceptionRenderer->_outputMessage('missingPlugin')
+#7 /home/watcyyzz/public_html/vendor/cakephp/cakephp/src/Error/ErrorHandler.php(138): Cake\Error\ExceptionRenderer->render()
+#8 /home/watcyyzz/public_html/vendor/cakephp/cakephp/src/Error/BaseErrorHandler.php(187): Cake\Error\ErrorHandler->_displayException(Object(Cake\Core\Exception\MissingPluginException))
+#9 /home/watcyyzz/public_html/vendor/cakephp/cakephp/src/Error/BaseErrorHandler.php(171): Cake\Error\BaseErrorHandler->handleException(Object(Cake\Core\Exception\MissingPluginException))
+#10 [internal function]: Cake\Error\BaseErrorHandler->wrapAndHandleException(Object(Cake\Core\Exception\MissingPluginException))
+#11 {main} in [/home/watcyyzz/public_html/vendor/cakephp/cakephp/src/Error/ErrorHandler.php, line 181]
+
+
+2019-06-17 06:05:37 Error: Fatal Error (256): [Cake\Core\Exception\MissingPluginException] Plugin ModernTheme could not be found.
+#0 /home/watcyyzz/public_html/vendor/cakephp/cakephp/src/Core/App.php(190): Cake\Core\Plugin::classPath('ModernTheme')
+#1 /home/watcyyzz/public_html/vendor/cakephp/cakephp/src/View/View.php(1469): Cake\Core\App::path('Template', 'ModernTheme')
+#2 /home/watcyyzz/public_html/vendor/cakephp/cakephp/src/View/View.php(1283): Cake\View\View->_paths(NULL)
+#3 /home/watcyyzz/public_html/vendor/cakephp/cakephp/src/View/View.php(768): Cake\View\View->_getViewFileName('Error/error500')
+#4 /home/watcyyzz/public_html/vendor/cakephp/cakephp/src/Error/ExceptionRenderer.php(364): Cake\View\View->render('error500', 'error')
+#5 /home/watcyyzz/public_html/vendor/cakephp/cakephp/src/Error/ExceptionRenderer.php(341): Cake\Error\ExceptionRenderer->_outputMessageSafe('error500')
+#6 /home/watcyyzz/public_html/vendor/cakephp/cakephp/src/Error/ExceptionRenderer.php(200): Cake\Error\ExceptionRenderer->_outputMessage('fatalError')
+#7 /home/watcyyzz/public in [/home/watcyyzz/public_html/vendor/cakephp/cakephp/src/Error/ErrorHandler.php, line 181]
+
+
+2019-06-17 06:05:56 Error: Fatal Error (256): [Cake\Core\Exception\MissingPluginException] Plugin ModernTheme could not be found.
+#0 /home/watcyyzz/public_html/vendor/cakephp/cakephp/src/Core/App.php(190): Cake\Core\Plugin::classPath('ModernTheme')
+#1 /home/watcyyzz/public_html/vendor/cakephp/cakephp/src/View/View.php(1469): Cake\Core\App::path('Template', 'ModernTheme')
+#2 /home/watcyyzz/public_html/vendor/cakephp/cakephp/src/View/View.php(1283): Cake\View\View->_paths(NULL)
+#3 /home/watcyyzz/public_html/vendor/cakephp/cakephp/src/View/View.php(768): Cake\View\View->_getViewFileName('Error/error500')
+#4 /home/watcyyzz/public_html/vendor/cakephp/cakephp/src/Error/ExceptionRenderer.php(364): Cake\View\View->render('error500', 'error')
+#5 /home/watcyyzz/public_html/vendor/cakephp/cakephp/src/Error/ExceptionRenderer.php(341): Cake\Error\ExceptionRenderer->_outputMessageSafe('error500')
+#6 /home/watcyyzz/public_html/vendor/cakephp/cakephp/src/Error/ExceptionRenderer.php(200): Cake\Error\ExceptionRenderer->_outputMessage('missingPlugin')
+#7 /home/watcyyzz/public_html/vendor/cakephp/cakephp/src/Error/ErrorHandler.php(138): Cake\Error\ExceptionRenderer->render()
+#8 /home/watcyyzz/public_html/vendor/cakephp/cakephp/src/Error/BaseErrorHandler.php(187): Cake\Error\ErrorHandler->_displayException(Object(Cake\Core\Exception\MissingPluginException))
+#9 /home/watcyyzz/public_html/vendor/cakephp/cakephp/src/Error/BaseErrorHandler.php(171): Cake\Error\BaseErrorHandler->handleException(Object(Cake\Core\Exception\MissingPluginException))
+#10 [internal function]: Cake\Error\BaseErrorHandler->wrapAndHandleException(Object(Cake\Core\Exception\MissingPluginException))
+#11 {main} in [/home/watcyyzz/public_html/vendor/cakephp/cakephp/src/Error/ErrorHandler.php, line 181]
+
+
+2019-06-17 06:05:56 Error: Fatal Error (256): [Cake\Core\Exception\MissingPluginException] Plugin ModernTheme could not be found.
+#0 /home/watcyyzz/public_html/vendor/cakephp/cakephp/src/Core/App.php(190): Cake\Core\Plugin::classPath('ModernTheme')
+#1 /home/watcyyzz/public_html/vendor/cakephp/cakephp/src/View/View.php(1469): Cake\Core\App::path('Template', 'ModernTheme')
+#2 /home/watcyyzz/public_html/vendor/cakephp/cakephp/src/View/View.php(1283): Cake\View\View->_paths(NULL)
+#3 /home/watcyyzz/public_html/vendor/cakephp/cakephp/src/View/View.php(768): Cake\View\View->_getViewFileName('Error/error500')
+#4 /home/watcyyzz/public_html/vendor/cakephp/cakephp/src/Error/ExceptionRenderer.php(364): Cake\View\View->render('error500', 'error')
+#5 /home/watcyyzz/public_html/vendor/cakephp/cakephp/src/Error/ExceptionRenderer.php(341): Cake\Error\ExceptionRenderer->_outputMessageSafe('error500')
+#6 /home/watcyyzz/public_html/vendor/cakephp/cakephp/src/Error/ExceptionRenderer.php(200): Cake\Error\ExceptionRenderer->_outputMessage('fatalError')
+#7 /home/watcyyzz/public in [/home/watcyyzz/public_html/vendor/cakephp/cakephp/src/Error/ErrorHandler.php, line 181]
+
+
+2019-06-17 06:05:59 Error: Fatal Error (256): [Cake\Core\Exception\MissingPluginException] Plugin ModernTheme could not be found.
+#0 /home/watcyyzz/public_html/vendor/cakephp/cakephp/src/Core/App.php(190): Cake\Core\Plugin::classPath('ModernTheme')
+#1 /home/watcyyzz/public_html/vendor/cakephp/cakephp/src/View/View.php(1469): Cake\Core\App::path('Template', 'ModernTheme')
+#2 /home/watcyyzz/public_html/vendor/cakephp/cakephp/src/View/View.php(1283): Cake\View\View->_paths(NULL)
+#3 /home/watcyyzz/public_html/vendor/cakephp/cakephp/src/View/View.php(768): Cake\View\View->_getViewFileName('Error/error500')
+#4 /home/watcyyzz/public_html/vendor/cakephp/cakephp/src/Error/ExceptionRenderer.php(364): Cake\View\View->render('error500', 'error')
+#5 /home/watcyyzz/public_html/vendor/cakephp/cakephp/src/Error/ExceptionRenderer.php(341): Cake\Error\ExceptionRenderer->_outputMessageSafe('error500')
+#6 /home/watcyyzz/public_html/vendor/cakephp/cakephp/src/Error/ExceptionRenderer.php(200): Cake\Error\ExceptionRenderer->_outputMessage('missingPlugin')
+#7 /home/watcyyzz/public_html/vendor/cakephp/cakephp/src/Error/ErrorHandler.php(138): Cake\Error\ExceptionRenderer->render()
+#8 /home/watcyyzz/public_html/vendor/cakephp/cakephp/src/Error/BaseErrorHandler.php(187): Cake\Error\ErrorHandler->_displayException(Object(Cake\Core\Exception\MissingPluginException))
+#9 /home/watcyyzz/public_html/vendor/cakephp/cakephp/src/Error/BaseErrorHandler.php(171): Cake\Error\BaseErrorHandler->handleException(Object(Cake\Core\Exception\MissingPluginException))
+#10 [internal function]: Cake\Error\BaseErrorHandler->wrapAndHandleException(Object(Cake\Core\Exception\MissingPluginException))
+#11 {main} in [/home/watcyyzz/public_html/vendor/cakephp/cakephp/src/Error/ErrorHandler.php, line 181]
+
+
+2019-06-17 06:05:59 Error: Fatal Error (256): [Cake\Core\Exception\MissingPluginException] Plugin ModernTheme could not be found.
+#0 /home/watcyyzz/public_html/vendor/cakephp/cakephp/src/Core/App.php(190): Cake\Core\Plugin::classPath('ModernTheme')
+#1 /home/watcyyzz/public_html/vendor/cakephp/cakephp/src/View/View.php(1469): Cake\Core\App::path('Template', 'ModernTheme')
+#2 /home/watcyyzz/public_html/vendor/cakephp/cakephp/src/View/View.php(1283): Cake\View\View->_paths(NULL)
+#3 /home/watcyyzz/public_html/vendor/cakephp/cakephp/src/View/View.php(768): Cake\View\View->_getViewFileName('Error/error500')
+#4 /home/watcyyzz/public_html/vendor/cakephp/cakephp/src/Error/ExceptionRenderer.php(364): Cake\View\View->render('error500', 'error')
+#5 /home/watcyyzz/public_html/vendor/cakephp/cakephp/src/Error/ExceptionRenderer.php(341): Cake\Error\ExceptionRenderer->_outputMessageSafe('error500')
+#6 /home/watcyyzz/public_html/vendor/cakephp/cakephp/src/Error/ExceptionRenderer.php(200): Cake\Error\ExceptionRenderer->_outputMessage('fatalError')
+#7 /home/watcyyzz/public in [/home/watcyyzz/public_html/vendor/cakephp/cakephp/src/Error/ErrorHandler.php, line 181]
+
+
+2019-06-17 06:06:39 Error: Fatal Error (256): [Cake\Core\Exception\MissingPluginException] Plugin ModernTheme could not be found.
+#0 /home/watcyyzz/public_html/vendor/cakephp/cakephp/src/Core/App.php(190): Cake\Core\Plugin::classPath('ModernTheme')
+#1 /home/watcyyzz/public_html/vendor/cakephp/cakephp/src/View/View.php(1469): Cake\Core\App::path('Template', 'ModernTheme')
+#2 /home/watcyyzz/public_html/vendor/cakephp/cakephp/src/View/View.php(1283): Cake\View\View->_paths(NULL)
+#3 /home/watcyyzz/public_html/vendor/cakephp/cakephp/src/View/View.php(768): Cake\View\View->_getViewFileName('Error/error500')
+#4 /home/watcyyzz/public_html/vendor/cakephp/cakephp/src/Error/ExceptionRenderer.php(364): Cake\View\View->render('error500', 'error')
+#5 /home/watcyyzz/public_html/vendor/cakephp/cakephp/src/Error/ExceptionRenderer.php(341): Cake\Error\ExceptionRenderer->_outputMessageSafe('error500')
+#6 /home/watcyyzz/public_html/vendor/cakephp/cakephp/src/Error/ExceptionRenderer.php(200): Cake\Error\ExceptionRenderer->_outputMessage('missingPlugin')
+#7 /home/watcyyzz/public_html/vendor/cakephp/cakephp/src/Error/ErrorHandler.php(138): Cake\Error\ExceptionRenderer->render()
+#8 /home/watcyyzz/public_html/vendor/cakephp/cakephp/src/Error/BaseErrorHandler.php(187): Cake\Error\ErrorHandler->_displayException(Object(Cake\Core\Exception\MissingPluginException))
+#9 /home/watcyyzz/public_html/vendor/cakephp/cakephp/src/Error/BaseErrorHandler.php(171): Cake\Error\BaseErrorHandler->handleException(Object(Cake\Core\Exception\MissingPluginException))
+#10 [internal function]: Cake\Error\BaseErrorHandler->wrapAndHandleException(Object(Cake\Core\Exception\MissingPluginException))
+#11 {main} in [/home/watcyyzz/public_html/vendor/cakephp/cakephp/src/Error/ErrorHandler.php, line 181]
+
+
+2019-06-17 06:06:39 Error: Fatal Error (256): [Cake\Core\Exception\MissingPluginException] Plugin ModernTheme could not be found.
+#0 /home/watcyyzz/public_html/vendor/cakephp/cakephp/src/Core/App.php(190): Cake\Core\Plugin::classPath('ModernTheme')
+#1 /home/watcyyzz/public_html/vendor/cakephp/cakephp/src/View/View.php(1469): Cake\Core\App::path('Template', 'ModernTheme')
+#2 /home/watcyyzz/public_html/vendor/cakephp/cakephp/src/View/View.php(1283): Cake\View\View->_paths(NULL)
+#3 /home/watcyyzz/public_html/vendor/cakephp/cakephp/src/View/View.php(768): Cake\View\View->_getViewFileName('Error/error500')
+#4 /home/watcyyzz/public_html/vendor/cakephp/cakephp/src/Error/ExceptionRenderer.php(364): Cake\View\View->render('error500', 'error')
+#5 /home/watcyyzz/public_html/vendor/cakephp/cakephp/src/Error/ExceptionRenderer.php(341): Cake\Error\ExceptionRenderer->_outputMessageSafe('error500')
+#6 /home/watcyyzz/public_html/vendor/cakephp/cakephp/src/Error/ExceptionRenderer.php(200): Cake\Error\ExceptionRenderer->_outputMessage('fatalError')
+#7 /home/watcyyzz/public in [/home/watcyyzz/public_html/vendor/cakephp/cakephp/src/Error/ErrorHandler.php, line 181]
+
+
+2019-06-17 07:19:26 Error: Fatal Error (256): [Cake\Core\Exception\MissingPluginException] Plugin ModernTheme could not be found.
+#0 /home/watcyyzz/public_html/vendor/cakephp/cakephp/src/Core/App.php(190): Cake\Core\Plugin::classPath('ModernTheme')
+#1 /home/watcyyzz/public_html/vendor/cakephp/cakephp/src/View/View.php(1469): Cake\Core\App::path('Template', 'ModernTheme')
+#2 /home/watcyyzz/public_html/vendor/cakephp/cakephp/src/View/View.php(1283): Cake\View\View->_paths(NULL)
+#3 /home/watcyyzz/public_html/vendor/cakephp/cakephp/src/View/View.php(768): Cake\View\View->_getViewFileName('Error/error500')
+#4 /home/watcyyzz/public_html/vendor/cakephp/cakephp/src/Error/ExceptionRenderer.php(364): Cake\View\View->render('error500', 'error')
+#5 /home/watcyyzz/public_html/vendor/cakephp/cakephp/src/Error/ExceptionRenderer.php(341): Cake\Error\ExceptionRenderer->_outputMessageSafe('error500')
+#6 /home/watcyyzz/public_html/vendor/cakephp/cakephp/src/Error/ExceptionRenderer.php(200): Cake\Error\ExceptionRenderer->_outputMessage('missingPlugin')
+#7 /home/watcyyzz/public_html/vendor/cakephp/cakephp/src/Error/ErrorHandler.php(138): Cake\Error\ExceptionRenderer->render()
+#8 /home/watcyyzz/public_html/vendor/cakephp/cakephp/src/Error/BaseErrorHandler.php(187): Cake\Error\ErrorHandler->_displayException(Object(Cake\Core\Exception\MissingPluginException))
+#9 /home/watcyyzz/public_html/vendor/cakephp/cakephp/src/Error/BaseErrorHandler.php(171): Cake\Error\BaseErrorHandler->handleException(Object(Cake\Core\Exception\MissingPluginException))
+#10 [internal function]: Cake\Error\BaseErrorHandler->wrapAndHandleException(Object(Cake\Core\Exception\MissingPluginException))
+#11 {main} in [/home/watcyyzz/public_html/vendor/cakephp/cakephp/src/Error/ErrorHandler.php, line 181]
+
+
+2019-06-17 07:19:26 Error: Fatal Error (256): [Cake\Core\Exception\MissingPluginException] Plugin ModernTheme could not be found.
+#0 /home/watcyyzz/public_html/vendor/cakephp/cakephp/src/Core/App.php(190): Cake\Core\Plugin::classPath('ModernTheme')
+#1 /home/watcyyzz/public_html/vendor/cakephp/cakephp/src/View/View.php(1469): Cake\Core\App::path('Template', 'ModernTheme')
+#2 /home/watcyyzz/public_html/vendor/cakephp/cakephp/src/View/View.php(1283): Cake\View\View->_paths(NULL)
+#3 /home/watcyyzz/public_html/vendor/cakephp/cakephp/src/View/View.php(768): Cake\View\View->_getViewFileName('Error/error500')
+#4 /home/watcyyzz/public_html/vendor/cakephp/cakephp/src/Error/ExceptionRenderer.php(364): Cake\View\View->render('error500', 'error')
+#5 /home/watcyyzz/public_html/vendor/cakephp/cakephp/src/Error/ExceptionRenderer.php(341): Cake\Error\ExceptionRenderer->_outputMessageSafe('error500')
+#6 /home/watcyyzz/public_html/vendor/cakephp/cakephp/src/Error/ExceptionRenderer.php(200): Cake\Error\ExceptionRenderer->_outputMessage('fatalError')
+#7 /home/watcyyzz/public in [/home/watcyyzz/public_html/vendor/cakephp/cakephp/src/Error/ErrorHandler.php, line 181]
+
+
+2019-06-17 07:46:53 Error: [Cake\Network\Exception\SocketException] Could not send email: unserialize(): Error at offset 0 of 1 bytes
+Request URL: /auth/signup
+Referer URL: https://minifyurl.com/auth/signup
+2019-06-17 07:51:41 Error: [Cake\Network\Exception\SocketException] Could not send email: unserialize(): Error at offset 0 of 1 bytes
+Request URL: /auth/forgot-password
+Referer URL: https://minifyurl.com/auth/forgot-password
+2019-06-17 10:51:19 Error: [Cake\Network\Exception\SocketException] Could not send email: unserialize(): Error at offset 0 of 1 bytes
+Request URL: /auth/signup
+Referer URL: https://minifyurl.com/auth/signup
